@@ -10,8 +10,6 @@ ABOUT:
 	of simple animation functions. These included animated transformation, skin deformation,
 	and particle system animation.
 	
-	Note: Extra Credit problems 2 and 3 were also completed.
-
 BUILD NOTES:
 
 	To build the project, simply type "make" in a terminal from the directory in which this
